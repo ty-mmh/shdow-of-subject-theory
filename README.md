@@ -112,7 +112,6 @@ GitHubを使う理由は次の通りです。
 /
 ├─ README.md
 ├─ canon/
-│  ├─ 
 │  └─ core_concepts.md
 ├─ docs/
 │  ├─ roadmap.md
